@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="FinanceTracker" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/FinanceTracker" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/FinanceTracker" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="adt/LinkedList.cpp" />
+		<Unit filename="adt/LinkedList.h" />
+		<Unit filename="boundary/BudgetUI.cpp" />
+		<Unit filename="boundary/BudgetUI.h" />
+		<Unit filename="boundary/ReportViewer.cpp" />
+		<Unit filename="boundary/ReportViewer.h" />
+		<Unit filename="boundary/TransactionUI.cpp" />
+		<Unit filename="boundary/TransactionUI.h" />
+		<Unit filename="boundary/UserInterface.cpp" />
+		<Unit filename="boundary/UserInterface.h" />
+		<Unit filename="control/BudgetController.cpp" />
+		<Unit filename="control/BudgetController.h" />
+		<Unit filename="control/ReportController.cpp" />
+		<Unit filename="control/ReportController.h" />
+		<Unit filename="control/TransactionController.cpp" />
+		<Unit filename="control/TransactionController.h" />
+		<Unit filename="control/UserController.cpp" />
+		<Unit filename="control/UserController.h" />
+		<Unit filename="entity/Budget.cpp" />
+		<Unit filename="entity/Budget.h" />
+		<Unit filename="entity/Report.cpp" />
+		<Unit filename="entity/Report.h" />
+		<Unit filename="entity/Transaction.cpp" />
+		<Unit filename="entity/Transaction.h" />
+		<Unit filename="entity/User.cpp" />
+		<Unit filename="entity/User.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="utility/Encryption.cpp" />
+		<Unit filename="utility/Encryption.h" />
+		<Unit filename="utility/FileHandler.cpp" />
+		<Unit filename="utility/FileHandler.h" />
+		<Unit filename="utility/Utility.cpp" />
+		<Unit filename="utility/Utility.h" />
+		<Unit filename="utility/Validation.cpp" />
+		<Unit filename="utility/Validation.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
