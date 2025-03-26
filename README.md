@@ -34,7 +34,7 @@ Personal Finance Tracker
 
 3. Manage Users (Placeholder)
 
-4.Generate Reports (Placeholder)
+4. Generate Reports (Placeholder)
 
 5. Exit 
 =============================
