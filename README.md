@@ -9,11 +9,11 @@ A C++ console application that helps users manage their personal finances with e
   - Search transactions by keyword
   - Sort by date, amount, or category
 
-- 💰 **Budget Module** *(Coming Soon / Placeholder)*
+- 💰 **Budget Module**  
 
-- 👥 **User Management** *(Placeholder)*
+- 👥 **User Management**  
 
-- 📊 **Report Generation** *(Placeholder)*
+- 📊 **Report Generation**  
 
 ## 🛠 Data Structures & Algorithms
 
