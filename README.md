@@ -26,16 +26,18 @@ A C++ console application that helps users manage their personal finances with e
 
 ## 🧱 Project Structure
 
-============================= Personal Finance Tracker
-Manage Transactions
+============================= 
+Personal Finance Tracker
+1. Manage Transactions
 
-Manage Budgets
+2. Manage Budgets
 
-Manage Users (Placeholder)
+3. Manage Users (Placeholder)
 
-Generate Reports (Placeholder)
+4.Generate Reports (Placeholder)
 
-Exit =============================
+5. Exit 
+=============================
 
 ## 📜 License
 
